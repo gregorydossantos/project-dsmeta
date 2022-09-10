@@ -1,4 +1,4 @@
-package com.gregory.dsmeta;
+package com.example.dsmeta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
